@@ -1,0 +1,56 @@
+Elektronsko poslovanje 2021
+Višeprocesorski sistemi
+Veb dizajn
+Arhitektura racunara 1
+Digitalna elektronika
+Računarske mreže 2020
+Programski jezici
+Sir
+Brojevi u kriptografiji
+Algoritmi i strukture podataka
+Arhitektura racunara 2
+Baze podataka
+Digitalna obrada signala
+Distribuirani sistemi
+Elektronsko poslovanje
+Interakcija covek-racunar
+Internet (smer matematika fizika)
+Mikrokontroleri
+Mikroprocesorski sistemi
+Multimedijalni sistemi 2019/20
+Objektno orijentisano programiranje
+Operativni sistemi
+Osnovi audio i video tehnologija
+Osnovi elektrotehnike
+Osnovi računarstva
+Osnovi telekomunikacija
+Računarska grafika
+Sigurnost u računarskim mrežama
+Softversko inženjerstvo
+Objektno orjentisano programiranje  2
+Veštačka inteligencija
+Web programiranje
+Zastita podataka
+Performanse računarskih sistema
+Mašinsko učenje
+programiranje mobilnih aplikacija
+Informacioni sistemi vežbe
+Upravljanje softverskim projektima
+Projektovanje softvera
+Napredne baze podataka
+Interakcija čovek računar 
+Teorija Informacija
+Algoritmi i strukture podataka
+Programiranje
+Multimedijalni sistemi 2018/19
+Osnovi elektrotehnike 1
+Digitalna obrada slike
+Osnovi audio tehnologija
+Telekomunikacije
+Digitalne telekomunikacije
+Digitalna obrada audio i video signala
+Elektroakustika
+Osnovi televizije
+Osnovi elektrotehnike 2
+Aplikativni softver
+Elektronika
